@@ -1,5 +1,4 @@
 const app = require("./app");
-const Sequelize = require("sequelize");
 
 // connect to database
 const db = require("./config/database");
